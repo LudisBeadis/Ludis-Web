@@ -13,7 +13,7 @@ SECRET_KEY = '!52t7x%6st_ec^30q18*f!ocymb=!0qdod7ztg_ah&v(94!ob)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','ludisweb.herokuapp.com']
 
 # Application definition
 
